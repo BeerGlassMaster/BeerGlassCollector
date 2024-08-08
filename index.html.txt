@@ -20,6 +20,7 @@
   <main>
     <section id="home">
       <h2>Home</h2>
+      <img src="images/home-background.jpg" alt="Home Background" style="width: 100%; height: auto;">
       <p>This is the home section.</p>
     </section>
     <section id="about">
